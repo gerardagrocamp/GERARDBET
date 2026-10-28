@@ -1,0 +1,42 @@
+laliga|2026-10-30|Villarreal|Espanyol|1.47|4.80|6.50
+laliga|2026-10-31|Levante|Atl. Madrid|5.00|4.50|1.62
+laliga|2026-10-31|Rayo Vallecano|Celta Vigo|2.35|3.40|3.10
+laliga|2026-10-31|Betis|Malaga|1.40|5.25|7.50
+laliga|2026-10-31|Barcelona|Alaves|1.13|9.75|23.00
+laliga|2026-11-01|Getafe|Sevilla|3.10|3.00|2.55
+laliga|2026-11-01|Racing Santander|Real Madrid|9.00|7.50|1.28
+laliga|2026-11-01|Elche|Valencia|2.45|3.40|3.00
+laliga|2026-11-01|Ath Bilbao|Real Sociedad|2.10|3.70|3.40
+laliga|2026-11-02|Dep. A Coruna|Osasuna|2.15|3.30|3.55
+laliga|2026-11-06|Sevilla|Alaves|2.10|3.30|3.60
+laliga|2026-11-07|Malaga|Racing Santander|2.35|3.70|2.85
+laliga|2026-11-07|Espanyol|Dep. A Coruna|2.20|3.40|3.25
+laliga|2026-11-07|Osasuna|Ath Bilbao|3.40|3.40|2.15
+laliga|2026-11-07|Valencia|Real Madrid|6.50|5.10|1.43
+laliga|2026-11-08|Elche|Betis|3.40|3.80|2.05
+laliga|2026-11-08|Real Sociedad|Rayo Vallecano|1.85|3.90|4.10
+laliga|2026-11-08|Celta Vigo|Levante|1.86|3.70|4.30
+laliga|2026-11-08|Villarreal|Getafe|1.50|4.30|7.00
+laliga|2026-11-08|Atl. Madrid|Barcelona|3.50|4.30|1.86
+ucl|2026-11-03|Galatasaray|Stuttgart|2.25|4.10|2.85
+ucl|2026-11-03|Shakhtar Donetsk|Sporting CP|3.80|3.85|1.95
+ucl|2026-11-03|Manchester Utd|AS Roma|2.30|3.90|2.88
+ucl|2026-11-03|Barcelona|Aston Villa|1.26|7.50|11.00
+ucl|2026-11-03|Atl. Madrid|Bayern Munich|3.40|4.10|2.05
+ucl|2026-11-03|Bodo/Glimt|Lille|1.88|4.10|3.90
+ucl|2026-11-03|Feyenoord|Inter|4.40|4.40|1.70
+ucl|2026-11-03|LASK|Slovan Bratislava|1.46|5.00|6.50
+ucl|2026-11-03|Villarreal|PSG|5.00|4.50|1.63
+ucl|2026-11-04|AEK Athens|Real Madrid|8.00|6.00|1.35
+ucl|2026-11-04|Fenerbahce|Liverpool|4.75|4.40|1.68
+ucl|2026-11-04|Slavia Prague|Arsenal|9.00|5.75|1.33
+ucl|2026-11-04|Dortmund|Betis|1.80|4.10|4.33
+ucl|2026-11-04|PSV|Club Brugge KV|2.20|4.20|2.90
+ucl|2026-11-04|Lens|Como|3.00|3.90|2.25
+ucl|2026-11-04|FC Porto|Napoli|2.20|3.60|3.30
+ucl|2026-11-04|RB Leipzig|Manchester City|5.50|4.80|1.58
+ucl|2026-11-04|Viking|Sabah FC|1.53|4.80|5.90
+copa|2026-10-28|Poblense|Ceuta|5.50|4.50|1.53
+copa|2026-10-28|Anaitasuna FT|Alaves|67.00|26.00|1.03
+copa|2026-10-28|Tarancon|Levante|56.00|21.00|1.04
+copa|2026-10-28|Pamplona|Eibar|19.00|7.00|1.18

@@ -1,0 +1,166 @@
+es|6|Real Sociedad|Celta de Vigo|0-0
+es|6|Rayo Vallecano|Espanyol|2-1
+es|6|Alavés|Valencia|0-1
+es|6|Elche|Real Madrid|2-3
+es|6|Atlético Madrid|Osasuna|4-0
+es|6|Deportivo La Coruna|Sevilla|0-1
+es|6|Barcelona|Racing Santander|7-2
+es|6|Real Betis|Getafe|1-0
+es|6|Malaga|Villarreal|1-3
+es|6|Levante|Athletic Club|3-1
+es|7|Espanyol|Elche|1-3
+es|7|Osasuna|Rayo Vallecano|1-1
+es|7|Athletic Club|Alavés|0-0
+es|7|Celta de Vigo|Racing Santander|5-0
+es|7|Sevilla|Barcelona|1-3
+es|7|Getafe|Malaga|1-0
+es|7|Atlético Madrid|Real Madrid|2-1
+es|7|Deportivo La Coruna|Real Betis|1-1
+es|7|Villarreal|Levante|3-1
+es|7|Valencia|Real Sociedad|2-3
+es|8|Malaga|Espanyol|1-1
+es|8|Alavés|Atlético Madrid|1-2
+es|8|Barcelona|Getafe|3-0
+es|8|Real Madrid|Villarreal|1-0
+es|8|Elche|Celta de Vigo|0-0
+es|8|Real Sociedad|Deportivo La Coruna|3-2
+es|8|Real Betis|Osasuna|5-2
+es|8|Racing Santander|Valencia|2-2
+es|8|Levante|Sevilla|3-3
+es|9|Deportivo La Coruna|Levante|1-1
+es|9|Espanyol|Atlético Madrid|0-1
+es|9|Villarreal|Elche|0-0
+es|9|Real Betis|Barcelona|2-5
+es|9|Valencia|Athletic Club|0-0
+es|9|Osasuna|Racing Santander|2-0
+es|9|Celta de Vigo|Alavés|2-1
+es|9|Malaga|Real Sociedad|2-5
+es|9|Real Madrid|Sevilla|4-1
+es|9|Getafe|Rayo Vallecano|1-1
+es|10|Alavés|Malaga|1-1
+es|10|Rayo Vallecano|Elche|0-3
+es|10|Racing Santander|Espanyol|2-1
+es|10|Valencia|Villarreal|1-2
+es|10|Atlético Madrid|Deportivo La Coruna|1-0
+es|10|Athletic Club|Getafe|4-0
+es|10|Celta de Vigo|Real Betis|0-0
+es|10|Real Sociedad|Levante|2-1
+es|10|Barcelona|Real Madrid|1-2
+es|10|Sevilla|Osasuna|2-0
+en|6|Arsenal|Leeds|2-1
+en|6|Sunderland|Brighton|0-2
+en|6|Ipswich|Fulham|2-1
+en|6|Chelsea|Bournemouth|5-1
+en|6|Aston Villa|Brentford|2-2
+en|6|Manchester United|Tottenham Hotspur|1-1
+en|6|Crystal Palace|Nottingham Forest|3-1
+en|6|Hull City|Everton|2-2
+en|6|Liverpool|Manchester City|0-3
+en|6|Coventry|Newcastle United|4-1
+en|7|Everton|Chelsea|0-2
+en|7|Manchester City|Ipswich|3-2
+en|7|Brentford|Liverpool|1-2
+en|7|Fulham|Hull City|1-0
+en|7|Newcastle United|Aston Villa|0-1
+en|7|Leeds|Manchester United|1-1
+en|7|Brighton|Crystal Palace|5-0
+en|7|Bournemouth|Sunderland|2-0
+en|7|Nottingham Forest|Arsenal|0-1
+en|7|Tottenham Hotspur|Coventry|3-1
+en|8|Ipswich|Nottingham Forest|1-1
+en|8|Aston Villa|Manchester City|2-1
+en|8|Coventry|Fulham|0-1
+en|8|Arsenal|Everton|2-0
+en|8|Chelsea|Tottenham Hotspur|0-2
+en|8|Liverpool|Brighton|2-0
+en|8|Crystal Palace|Newcastle United|0-2
+en|8|Hull City|Brentford|1-1
+en|8|Manchester United|Bournemouth|0-3
+en|8|Sunderland|Leeds|0-0
+it|6|Genoa|Fiorentina|2-1
+it|6|Inter|Parma|3-0
+it|6|Napoli|Frosinone|3-0
+it|6|Como|Roma|0-0
+it|6|Lecce|Bologna|1-2
+it|6|Lazio|Monza|3-1
+it|6|Sassuolo|Milan|1-1
+it|6|Cagliari|Juventus|1-1
+it|6|Atalanta|Venezia|3-1
+it|6|Torino|Udinese|2-1
+it|7|Frosinone|Sassuolo|4-2
+it|7|Venezia|Napoli|1-0
+it|7|Bologna|Inter|1-3
+it|7|Roma|Genoa|2-0
+it|7|Udinese|Lecce|0-3
+it|7|Fiorentina|Como|1-3
+it|7|Milan|Atalanta|3-2
+it|7|Juventus|Lazio|0-3
+it|7|Monza|Cagliari|4-0
+it|7|Parma|Torino|0-3
+it|8|Torino|Monza|3-2
+it|8|Como|Sassuolo|2-0
+it|8|Cagliari|Bologna|0-2
+it|8|Napoli|Roma|3-3
+it|8|Lazio|Parma|2-1
+it|8|Inter|Fiorentina|2-1
+it|8|Genoa|Venezia|1-0
+it|8|Atalanta|Frosinone|4-4
+it|8|Lecce|Juventus|0-2
+it|8|Udinese|Milan|0-2
+it|9|Sassuolo|Lazio|2-6
+it|9|Torino|Como|1-3
+it|9|Roma|Cagliari|4-2
+de|5|Borussia Dortmund|Werder Bremen|2-2
+de|5|Mainz 05|Bayer Leverkusen|3-4
+de|5|Hoffenheim|Hamburger SV|2-3
+de|5|Augsburg|Bayern München|2-2
+de|5|Union Berlin|Elversberg|1-0
+de|5|Paderborn|Stuttgart|0-2
+de|5|Leipzig|Eintracht Frankfurt|6-0
+de|5|Köln|Mönchengladbach|2-1
+de|5|Freiburg|Schalke 04|2-1
+de|6|Eintracht Frankfurt|Köln|1-0
+de|6|Union Berlin|Borussia Dortmund|0-0
+de|6|Werder Bremen|Paderborn|2-2
+de|6|Hamburger SV|Stuttgart|1-0
+de|6|Elversberg|Augsburg|4-3
+de|6|Schalke 04|Mainz 05|0-1
+de|6|Bayern München|Leipzig|6-1
+de|6|Bayer Leverkusen|Freiburg|2-1
+de|6|Mönchengladbach|Hoffenheim|1-2
+de|7|Stuttgart|Mönchengladbach|2-3
+de|7|Augsburg|Union Berlin|1-1
+de|7|Leipzig|Elversberg|4-0
+de|7|Paderborn|Hamburger SV|1-0
+de|7|Köln|Schalke 04|0-0
+de|7|Mainz 05|Werder Bremen|2-3
+de|7|Borussia Dortmund|Eintracht Frankfurt|1-0
+de|7|Hoffenheim|Bayer Leverkusen|3-0
+de|7|Freiburg|Bayern München|1-3
+fr|6|Lens|Lyon|2-1
+fr|6|Lille|Le Havre|1-0
+fr|6|Monaco|Toulouse|2-2
+fr|6|Lorient|Paris FC|1-0
+fr|6|Brestois|Angers|5-1
+fr|6|Paris Saint Germain|Le Mans|3-1
+fr|6|Nice|Strasbourg|2-1
+fr|6|Rennes|Auxerre|4-1
+fr|6|Troyes|Marseille|0-2
+fr|7|Le Mans|Toulouse|0-3
+fr|7|Strasbourg|Paris Saint Germain|1-3
+fr|7|Troyes|Lens|1-3
+fr|7|Lille|Brestois|1-1
+fr|7|Angers|Marseille|2-5
+fr|7|Lorient|Monaco|1-0
+fr|7|Paris FC|Rennes|4-3
+fr|7|Le Havre|Auxerre|1-3
+fr|7|Lyon|Nice|2-1
+fr|8|Brestois|Nice|1-2
+fr|8|Lens|Paris FC|2-1
+fr|8|Monaco|Lille|1-1
+fr|8|Marseille|Le Havre|4-3
+fr|8|Auxerre|Le Mans|1-1
+fr|8|Toulouse|Troyes|0-0
+fr|8|Angers|Lorient|0-0
+fr|8|Rennes|Strasbourg|3-0
+fr|8|Paris Saint Germain|Lyon|2-0

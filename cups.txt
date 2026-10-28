@@ -1,0 +1,203 @@
+ucl|1|2026-09-08|21:00|AEK Athens|LASK|1-0
+ucl|1|2026-09-08|21:00|Club Brugge|Aston Villa|2-3
+ucl|1|2026-09-08|21:00|Borussia Dortmund|Villarreal|3-2
+ucl|1|2026-09-08|21:00|Porto|Manchester City|0-2
+ucl|1|2026-09-08|21:00|Lille|Real Betis|2-3
+ucl|1|2026-09-08|21:00|Real Madrid|Inter|2-1
+ucl|1|2026-09-09|21:00|Barcelona|Feyenoord|5-1
+ucl|1|2026-09-09|21:00|Stuttgart|Viking|3-1
+ucl|1|2026-09-09|21:00|Liverpool|Atlético de Madrid|2-1
+ucl|1|2026-09-09|21:00|Paris Saint-Germain|Slovan Bratislava|6-1
+ucl|1|2026-09-09|21:00|Sporting CP|Galatasaray|3-1
+ucl|1|2026-09-09|21:00|Napoli|Arsenal|0-1
+ucl|1|2026-09-10|21:00|Fenerbahçe|Roma|1-1
+ucl|1|2026-09-10|21:00|PSV Eindhoven|Shakhtar Donetsk|1-1
+ucl|1|2026-09-10|21:00|Como|Leipzig|4-1
+ucl|1|2026-09-10|21:00|Bayern München|Bodø/Glimt|5-0
+ucl|1|2026-09-10|21:00|Manchester United|Sabah|4-0
+ucl|1|2026-09-10|21:00|Slavia Praha|Lens|2-3
+ucl|2|2026-10-13|21:00|Lens|Sporting CP|0-2
+ucl|2|2026-10-13|21:00|Sabah|Slavia Praha|2-0
+ucl|2|2026-10-13|21:00|Arsenal|Lille|3-0
+ucl|2|2026-10-13|21:00|Atlético de Madrid|Manchester United|2-0
+ucl|2|2026-10-13|21:00|Inter|Club Brugge|3-4
+ucl|2|2026-10-13|21:00|Galatasaray|Barcelona|1-4
+ucl|2|2026-10-13|21:00|Leipzig|PSV Eindhoven|1-0
+ucl|2|2026-10-13|21:00|Viking|Bayern München|3-3
+ucl|2|2026-10-13|21:00|Villarreal|Napoli|3-1
+ucl|2|2026-10-14|21:00|Feyenoord|Como|3-2
+ucl|2|2026-10-14|21:00|LASK|Liverpool|3-6
+ucl|2|2026-10-14|21:00|Roma|Real Madrid|3-4
+ucl|2|2026-10-14|21:00|Aston Villa|Fenerbahçe|6-0
+ucl|2|2026-10-14|21:00|Shakhtar Donetsk|AEK Athens|3-1
+ucl|2|2026-10-14|21:00|Bodø/Glimt|Borussia Dortmund|1-0
+ucl|2|2026-10-14|21:00|Manchester City|Paris Saint-Germain|2-4
+ucl|2|2026-10-14|21:00|Real Betis|Porto|3-2
+ucl|2|2026-10-14|21:00|Slovan Bratislava|Stuttgart|0-3
+ucl|3|2026-10-20|21:00|Fenerbahçe|Slavia Praha|2-2
+ucl|3|2026-10-20|21:00|Sabah|Borussia Dortmund|1-2
+ucl|3|2026-10-20|21:00|Roma|Slovan Bratislava|4-0
+ucl|3|2026-10-20|21:00|Porto|PSV Eindhoven|0-1
+ucl|3|2026-10-20|21:00|Liverpool|Villarreal|4-3
+ucl|3|2026-10-20|21:00|Manchester City|AEK Athens|5-1
+ucl|3|2026-10-20|21:00|Paris Saint-Germain|Barcelona|4-2
+ucl|3|2026-10-20|21:00|Napoli|Bodø/Glimt|4-3
+ucl|3|2026-10-20|21:00|Stuttgart|Atlético de Madrid|1-1
+ucl|3|2026-10-21|21:00|Como|Manchester United|4-1
+ucl|3|2026-10-21|21:00|Lille|Galatasaray|2-4
+ucl|3|2026-10-21|21:00|Aston Villa|Viking|3-1
+ucl|3|2026-10-21|21:00|Club Brugge|Lens|3-0
+ucl|3|2026-10-21|21:00|Bayern München|Arsenal|2-2
+ucl|3|2026-10-21|21:00|Inter|Shakhtar Donetsk|1-0
+ucl|3|2026-10-21|21:00|Real Madrid|Leipzig|4-1
+ucl|3|2026-10-21|21:00|Real Betis|Feyenoord|1-0
+ucl|3|2026-10-21|21:00|Sporting CP|LASK|2-3
+ucl|4|2026-11-03|18:45|Shakhtar Donetsk|Sporting CP|
+ucl|4|2026-11-03|18:45|Galatasaray|Stuttgart|
+ucl|4|2026-11-03|21:00|Atlético de Madrid|Bayern München|
+ucl|4|2026-11-03|21:00|Barcelona|Aston Villa|
+ucl|4|2026-11-03|21:00|Feyenoord|Inter|
+ucl|4|2026-11-03|21:00|Bodø/Glimt|Lille|
+ucl|4|2026-11-03|21:00|LASK|Slovan Bratislava|
+ucl|4|2026-11-03|21:00|Manchester United|Roma|
+ucl|4|2026-11-03|21:00|Villarreal|Paris Saint-Germain|
+ucl|4|2026-11-04|18:45|AEK Athens|Real Madrid|
+ucl|4|2026-11-04|18:45|Fenerbahçe|Liverpool|
+ucl|4|2026-11-04|21:00|Borussia Dortmund|Real Betis|
+ucl|4|2026-11-04|21:00|Porto|Napoli|
+ucl|4|2026-11-04|21:00|PSV Eindhoven|Club Brugge|
+ucl|4|2026-11-04|21:00|Leipzig|Manchester City|
+ucl|4|2026-11-04|21:00|Lens|Como|
+ucl|4|2026-11-04|21:00|Slavia Praha|Arsenal|
+ucl|4|2026-11-04|21:00|Viking|Sabah|
+ucl|5|2026-11-24|18:45|Bodø/Glimt|LASK|
+ucl|5|2026-11-24|18:45|Galatasaray|Aston Villa|
+ucl|5|2026-11-24|21:00|Arsenal|Borussia Dortmund|
+ucl|5|2026-11-24|21:00|Como|AEK Athens|
+ucl|5|2026-11-24|21:00|Feyenoord|Porto|
+ucl|5|2026-11-24|21:00|Manchester City|Napoli|
+ucl|5|2026-11-24|21:00|Leipzig|Lens|
+ucl|5|2026-11-24|21:00|Real Madrid|PSV Eindhoven|
+ucl|5|2026-11-24|21:00|Slovan Bratislava|Real Betis|
+ucl|5|2026-11-25|18:45|Sabah|Barcelona|
+ucl|5|2026-11-25|18:45|Slavia Praha|Villarreal|
+ucl|5|2026-11-25|21:00|Atlético de Madrid|Viking|
+ucl|5|2026-11-25|21:00|Club Brugge|Liverpool|
+ucl|5|2026-11-25|21:00|Inter|Stuttgart|
+ucl|5|2026-11-25|21:00|Shakhtar Donetsk|Fenerbahçe|
+ucl|5|2026-11-25|21:00|Lille|Bayern München|
+ucl|5|2026-11-25|21:00|Paris Saint-Germain|Roma|
+ucl|5|2026-11-25|21:00|Sporting CP|Manchester United|
+ucl|6|2026-12-08|18:45|Viking|Feyenoord|
+ucl|6|2026-12-08|18:45|Villarreal|Sabah|
+ucl|6|2026-12-08|21:00|AEK Athens|Galatasaray|
+ucl|6|2026-12-08|21:00|Roma|Sporting CP|
+ucl|6|2026-12-08|21:00|Aston Villa|Paris Saint-Germain|
+ucl|6|2026-12-08|21:00|Barcelona|Manchester City|
+ucl|6|2026-12-08|21:00|Bayern München|Slavia Praha|
+ucl|6|2026-12-08|21:00|Manchester United|Leipzig|
+ucl|6|2026-12-08|21:00|Napoli|Club Brugge|
+ucl|6|2026-12-09|18:45|Real Betis|Como|
+ucl|6|2026-12-09|18:45|Slovan Bratislava|Shakhtar Donetsk|
+ucl|6|2026-12-09|21:00|Arsenal|Real Madrid|
+ucl|6|2026-12-09|21:00|Borussia Dortmund|Inter|
+ucl|6|2026-12-09|21:00|LASK|Fenerbahçe|
+ucl|6|2026-12-09|21:00|Liverpool|Porto|
+ucl|6|2026-12-09|21:00|PSV Eindhoven|Atlético de Madrid|
+ucl|6|2026-12-09|21:00|Lens|Bodø/Glimt|
+ucl|6|2026-12-09|21:00|Stuttgart|Lille|
+ucl|7|2027-01-19|18:45|Bodø/Glimt|Atlético de Madrid|
+ucl|7|2027-01-19|18:45|Galatasaray|Feyenoord|
+ucl|7|2027-01-19|21:00|AEK Athens|Roma|
+ucl|7|2027-01-19|21:00|Aston Villa|Borussia Dortmund|
+ucl|7|2027-01-19|21:00|Inter|Liverpool|
+ucl|7|2027-01-19|21:00|Porto|Slavia Praha|
+ucl|7|2027-01-19|21:00|Lille|Slovan Bratislava|
+ucl|7|2027-01-19|21:00|Real Madrid|LASK|
+ucl|7|2027-01-19|21:00|Stuttgart|Club Brugge|
+ucl|7|2027-01-20|18:45|Fenerbahçe|Villarreal|
+ucl|7|2027-01-20|18:45|Sabah|Napoli|
+ucl|7|2027-01-20|21:00|Como|Paris Saint-Germain|
+ucl|7|2027-01-20|21:00|Manchester United|Bayern München|
+ucl|7|2027-01-20|21:00|Leipzig|Shakhtar Donetsk|
+ucl|7|2027-01-20|21:00|Lens|Manchester City|
+ucl|7|2027-01-20|21:00|Real Betis|Arsenal|
+ucl|7|2027-01-20|21:00|Sporting CP|Barcelona|
+ucl|7|2027-01-20|21:00|Viking|PSV Eindhoven|
+ucl|8|2027-01-27|21:00|Arsenal|Sabah|
+ucl|8|2027-01-27|21:00|Roma|Lille|
+ucl|8|2027-01-27|21:00|Atlético de Madrid|Fenerbahçe|
+ucl|8|2027-01-27|21:00|Borussia Dortmund|AEK Athens|
+ucl|8|2027-01-27|21:00|Club Brugge|Bodø/Glimt|
+ucl|8|2027-01-27|21:00|Bayern München|Real Betis|
+ucl|8|2027-01-27|21:00|Barcelona|Como|
+ucl|8|2027-01-27|21:00|Shakhtar Donetsk|Real Madrid|
+ucl|8|2027-01-27|21:00|Feyenoord|Leipzig|
+ucl|8|2027-01-27|21:00|LASK|Porto|
+ucl|8|2027-01-27|21:00|Liverpool|Lens|
+ucl|8|2027-01-27|21:00|Manchester City|Sporting CP|
+ucl|8|2027-01-27|21:00|Paris Saint-Germain|Galatasaray|
+ucl|8|2027-01-27|21:00|PSV Eindhoven|Stuttgart|
+ucl|8|2027-01-27|21:00|Slavia Praha|Aston Villa|
+ucl|8|2027-01-27|21:00|Napoli|Viking|
+ucl|8|2027-01-27|21:00|Villarreal|Manchester United|
+ucl|8|2027-01-27|21:00|Slovan Bratislava|Inter|
+copa|1|2026-10-27|18:30|Cuarte|Girona|
+copa|1|2026-10-27|19:00|Sestao River|Espanyol|
+copa|1|2026-10-27|19:00|Calamocha|Europa|
+copa|1|2026-10-27|19:00|Pinatar|Elche|
+copa|1|2026-10-27|19:30|Manresa|Sant Andreu|
+copa|1|2026-10-27|19:45|Castellonense|Almería|
+copa|1|2026-10-27|20:00|Alcalá|Las Palmas|
+copa|1|2026-10-27|20:00|Atlético Tordesillas|Mirandés|
+copa|1|2026-10-27|20:00|Gimnástica Segoviana|Cultural Leonesa|
+copa|1|2026-10-27|20:00|Llanera|Ponferradina|
+copa|1|2026-10-27|20:00|Ciudad de Lucena|Rayo Majadahonda|
+copa|1|2026-10-27|20:30|Don Benito|Extremadura|
+copa|1|2026-10-27|21:00|Atlético Paso|Córdoba|
+copa|1|2026-10-27|21:00|Manacor|Villarreal|
+copa|1|2026-10-27|21:00|Recreativo de Huelva|Rayo Vallecano|
+copa|1|2026-10-27|21:00|Tudelano|Real Zaragoza|
+copa|1|2026-10-27|21:00|Sporting de Alcázar|Málaga|
+copa|1|2026-10-27|21:00|Arosa|Pontevedra|
+copa|1|2026-10-28|19:00|Utebo|Sabadell|
+copa|1|2026-10-28|19:00|Pamplona|Eibar|
+copa|1|2026-10-28|19:00|Poblense|Ceuta|
+copa|1|2026-10-28|19:00|Coruxo|Zamora|
+copa|1|2026-10-28|19:00|Portugalete|Real Unión|
+copa|1|2026-10-28|19:00|Anaitasuna|Alavés|
+copa|1|2026-10-28|19:00|Tarancón|Levante|
+copa|1|2026-10-28|19:00|Peña Sport|Huesca|
+copa|1|2026-10-28|20:00|Amorebieta|Logroñés|
+copa|1|2026-10-28|20:00|Mijas Las Lagunas|Real Jaén|
+copa|1|2026-10-28|20:00|Alcoyano|Mallorca|
+copa|1|2026-10-28|20:00|Alcorcón|Leganés|
+copa|1|2026-10-28|20:00|Covadonga|Real Valladolid|
+copa|1|2026-10-28|20:00|Numancia|Real Oviedo|
+copa|1|2026-10-28|20:00|Badajoz|Tenerife|
+copa|1|2026-10-28|20:00|Puertollano|Albacete|
+copa|1|2026-10-28|20:30|Cieza|Granada|
+copa|1|2026-10-28|20:30|Reus|Barakaldo|
+copa|1|2026-10-28|20:30|Deportiva Minera|Cartagena|
+copa|1|2026-10-28|20:30|Gimnástica Torrelavega|Ourense|
+copa|1|2026-10-28|21:00|Navalcarnero|Real Betis|
+copa|1|2026-10-28|21:00|Salamanca|Celta de Vigo|
+copa|1|2026-10-28|21:00|Xerez|Cádiz|
+copa|1|2026-10-28|21:00|Tavernes|Valencia|
+copa|1|2026-10-29|19:00|Lebrijana|Getafe|
+copa|1|2026-10-29|19:00|Atlético Calatayud|Osasuna|
+copa|1|2026-10-29|19:00|Atlético Baleares|Eldense|
+copa|1|2026-10-29|19:00|Sanse|Coria|
+copa|1|2026-10-29|20:00|Guijuelo|Sporting de Gijón|
+copa|1|2026-10-29|20:00|Conquense|Castellón|
+copa|1|2026-10-29|20:00|Laredo|Burgos|
+copa|1|2026-10-29|20:00|Varea|Andorra|
+copa|1|2026-10-29|20:00|Antequera|Águilas|
+copa|1|2026-10-29|20:00|Real Ávila|Unionistas|
+copa|1|2026-10-29|21:00|Prat|Athletic Club|
+copa|1|2026-10-29|21:00|Sporting Hortaleza|Sevilla|
+copa|1|2026-10-29|21:00|Ribadesella|Racing de Santander|
+copa|1|2026-10-29|21:00|Auriense|Deportivo|
+super|1|2027-02-02|20:00|Barcelona|Atlético de Madrid|
+super|1|2027-02-03|20:00|Real Sociedad|Real Madrid|
+super|2|2027-02-06|20:00|Ganador semifinal 1|Ganador semifinal 2|

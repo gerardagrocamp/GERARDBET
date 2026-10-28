@@ -1,0 +1,549 @@
+#Real Madrid
+Thibaut Courtois,POR
+Andriy Lunin,POR
+Marc Cucurella,DEF
+Raúl Asencio,DEF
+Antonio Rüdiger,DEF
+Éder Militão,DEF
+Álvaro Carreras,DEF
+Ibrahima Konaté,DEF
+Ferland Mendy,DEF
+Dean Huijsen,DEF
+Trent Alexander-Arnold,DEF
+Denzel Dumfries,DEF
+Eduardo Camavinga,MED
+Federico Valverde,MED
+Jude Bellingham,MED
+Arda Güler,MED
+Thiago Pitarch,MED
+Aurélien Tchouaméni,MED
+Bernardo Silva,MED
+Vinícius Júnior,DEL
+Endrick,DEL
+Kylian Mbappé,DEL
+Brahim Díaz,DEL
+Rodrygo,DEL
+Carlos Espí,DEL
+Yan Diomandé,DEL
+#Barcelona
+Joan García,POR
+Dominik Livaković,POR
+Wojciech Szczęsny,POR
+Jules Koundé,DEF
+Eric García,DEF
+Alejandro Balde,DEF
+Gerard Martín,DEF
+Xavi Espart,DEF
+Andreas Christensen,DEF
+Pau Cubarsí,DEF
+João Cancelo,DEF
+Gavi,MED
+Dani Olmo,MED
+Marc Bernal,MED
+Pedri,MED
+Brian Fariñas,MED
+Rodri Hernández,MED
+Fermín López,MED
+Frenkie de Jong,MED
+Karim Adeyemi,DEL
+Roony Bardghji,DEL
+Lamine Yamal,DEL
+Anthony Gordon,DEL
+Raphinha,DEL
+Hamza Abdelkarim,DEL
+Gabriel Jesus,DEL
+#Atlético de Madrid
+Jan Oblak,POR
+Juan Musso,POR
+Dávid Hancko,DEF
+Marcos Llorente,DEF
+Marc Pubill,DEF
+Robin Le Normand,DEF
+Cristian Romero,DEF
+Álex Grimaldo,DEF
+Daniel Martínez,DEF
+Rodrigo Mendoza,MED
+Pablo Barrios,MED
+Koke,MED
+Álex Baena,MED
+Obed Vargas,MED
+Giuliano Simeone,MED
+Kang-in Lee,MED
+Johnny Cardoso,MED
+Morten Hjulmand,MED
+Alexander Sørloth,DEL
+Julián Álvarez,DEL
+Ademola Lookman,DEL
+Jonathan David,DEL
+Arnau Ortiz,DEL
+#Athletic Club
+Álex Padilla,POR
+Unai Simón,POR
+Aitor Paredes,DEF
+Yeray Álvarez,DEF
+Jesús Areso,DEF
+Yuri Berchiche,DEF
+Aymeric Laporte,DEF
+Dani Vivian,DEF
+Unai Egiluz,DEF
+Hugo Rincón,DEF
+Andoni Gorosabel,DEF
+Iñigo Ruiz de Galarreta,MED
+Alejandro Rego,MED
+Nico Serrano,MED
+Oihan Sancet,MED
+Selton Sánchez,MED
+Beñat Prados,MED
+Peio Canales,MED
+Eder García,MED
+Álex Berenguer,MED
+Mikel Jauregizar,MED
+Robert Navarro,MED
+Generabarrena,MED
+Nico Williams,DEL
+Álvaro Djaló,DEL
+Gorka Guruzeta,DEL
+Asier Hierro,DEL
+Maroan Sannadi,DEL
+Iñaki Williams,DEL
+#Villarreal
+Péter Gulácsi,POR
+Luiz Júnior,POR
+Carlos Romero,DEF
+Juan Foyth,DEF
+Renato Veiga,DEF
+Santiago Mouriño,DEF
+Willy Kambwala,DEF
+Sergi Cardona,DEF
+Logan Costa,DEF
+Pau Navarro,DEF
+Alex Freeman,DEF
+Pape Gueye,MED
+Alberto Moleiro,MED
+Carlos Maciá,MED
+Santi Comesaña,MED
+Ilias Akhomach,MED
+Tajon Buchanan,MED
+Krépin Diatta,MED
+Nicolas Pépé,DEL
+Gerard Moreno,DEL
+Ayoze Pérez,DEL
+Georges Mikautadze,DEL
+Tani Oluwaseyi,DEL
+#Real Betis
+Álvaro Valles,POR
+Diego Conde,POR
+Fran García,DEF
+Valentín Gómez,DEF
+Héctor Bellerín,DEF
+Marc Bartra,DEF
+Natan,DEF
+Diego Llorente,DEF
+Ángel Ortiz,DEF
+Aitor Ruibal,DEF
+Junior Firpo,DEF
+Marc Roca,MED
+Iker Losada,MED
+Rodrigo Riquelme,MED
+Nelson Deossa,MED
+Pablo Fornals,MED
+Abde Ezzalzouli,MED
+Giovani Lo Celso,MED
+Iván Corralejo,MED
+Álvaro Fidalgo,MED
+Antony,MED
+Isco,MED
+Facundo Bernal,MED
+Dani Ceballos,MED
+Cucho Hernández,DEL
+Troy Parrott,DEL
+#Real Sociedad
+Álex Remiro,POR
+Unai Marrero,POR
+Jon Martín,DEF
+Sergio Gómez,DEF
+Jon Aramburu,DEF
+Mamadou Sarr,DEF
+Igor Zubeldia,DEF
+Héctor Fort,DEF
+Jon Pacheco,DEF
+Luken Beitia,DEF
+Álvaro Odriozola,DEF
+Aihen Muñoz,DEF
+Carlos Soler,MED
+Takefusa Kubo,MED
+Ander Barrenetxea,MED
+Luka Sučić,MED
+Beñat Turrientes,MED
+Jon Gorrotxategi,MED
+Yangel Herrera,MED
+Pablo Marín,MED
+Arsen Zakharyan,MED
+Ibai Aguirre,MED
+Mikel Oyarzabal,DEL
+Gonçalo Guedes,DEL
+Orri Óskarsson,DEL
+Ochieng,DEL
+Mariezkurrena,DEL
+Gorka Carrera,DEL
+Dani Díaz,DEL
+#Sevilla
+Odysseas Vlachodimos,POR
+Fran González,POR
+Kike Salas,DEF
+Gabriel Suazo,DEF
+Andrés Castrín,DEF
+Fábio Cardoso,DEF
+José Ángel Carmona,DEF
+Sangante,DEF
+Marcão,DEF
+Juan Iglesias,DEF
+Julio Díaz,DEF
+Chidera Ejuke,MED
+Jon Guridi,MED
+Peque Fernández,MED
+Manu Bueno,MED
+Rubén Vargas,MED
+Nico Guillén,MED
+Lucien Agoumé,MED
+Alfonso González,MED
+Giorgi Kochorashvili,MED
+Fofana,MED
+Miguel Sierra,DEL
+Ibrahima Sow,DEL
+Robbie Ure,DEL
+Lucas Stassin,DEL
+Félix Correia,DEL
+Isaac Romero,DEL
+#Espanyol
+Marko Dmitrović,POR
+Ángel Fortuño,POR
+Miguel Ángel Rubio,DEF
+Omar El Hilali,DEF
+Riedel,DEF
+Hartman,DEF
+Leandro Cabrera,DEF
+Unai Núñez,DEF
+Drkusic,DEF
+Roger Hinojo,DEF
+Urko González de Zárate,MED
+Tyrhys Dolan,MED
+Rafa Bauza,MED
+Edu Expósito,MED
+Jofre Carreras,MED
+Pol Lozano,MED
+Álex Calatrava,MED
+Moscardo,MED
+Javier Hernández,MED
+Pere Milla,DEL
+Marcos Fernández,DEL
+Javi Puado,DEL
+Kike García,DEL
+Roberto Fernández,DEL
+#Levante
+Ryan,POR
+Álex Primo,POR
+Pablo Cuñat,POR
+Jeremy Toljan,DEF
+Manu Sánchez,DEF
+Nacho Pérez,DEF
+Aïssa Mandi,DEF
+Adrián de la Fuente,DEF
+Jorge Cabello,DEF
+Marc Santos,DEF
+Ndukwe,DEF
+Oriol Rey,MED
+Olasagasti,MED
+Paco Cortés,MED
+Víctor García,MED
+Hugo Sotelo,MED
+Bardeli,MED
+Requena,MED
+Thiago Fernández,MED
+Axel Tape,MED
+Iván Romero,DEL
+Etta Eyong,DEL
+Brugui,DEL
+Musuayi,DEL
+Ratkov,DEL
+#Deportivo
+Álvaro Fernández,POR
+Leo Román,POR
+Germán Parreño,POR
+Ximo Navarro,DEF
+Adrià Altimira,DEF
+Arnau Comas,DEF
+Loureiro,DEF
+Lucas Noubi,DEF
+Quagliata,DEF
+Bright Ede,DEF
+Angeliño,DEF
+José Giménez,DEF
+Luismi Cruz,MED
+Charlie Patiño,MED
+José Ángel Jurado,MED
+Mario Soriano,MED
+David Mella,MED
+Noé Carrillo,MED
+Riki Rodríguez,MED
+Diego Villares,MED
+Yeremay Hernández,MED
+Gijselhart,MED
+Amatucci,MED
+Asp Jensen,MED
+Pierre-Emerick Aubameyang,DEL
+Nsongo,DEL
+Zakaria Eddahchouri,DEL
+#Alavés
+Antonio Sivera,POR
+Adrián Rodríguez,POR
+Valentini,DEF
+Jonny Otto,DEF
+Hugo Novoa,DEF
+Nahuel Tenaglia,DEF
+Ville Koski,DEF
+Carlos Ballestero,DEF
+Facundo Garcés,DEF
+Youssef Enríquez,DEF
+Diarra,DEF
+Mikel Rodríguez,MED
+Antonio Blanco,MED
+Carles Aleñá,MED
+Denis Suárez,MED
+Benavidez,MED
+Abde Rebbach,MED
+Ángel Pérez,MED
+Jon Guevara,MED
+Miguel Rodríguez,MED
+Pablo Ibáñez,MED
+Mariano Díaz,DEL
+Aitor Mañas,DEL
+Toni Martínez,DEL
+Lucas Boyé,DEL
+#Celta
+Ionuț Radu,POR
+Iván Villar,POR
+Álvaro Núñez,DEF
+Marcos Alonso,DEF
+Yoel Lago,DEF
+Javi Rueda,DEF
+Javi Rodríguez,DEF
+Carl Starfelt,DEF
+Javi Galán,DEF
+Sergio Carreira,DEF
+Abdoulaye Faye,DEF
+Ilaix Moriba,MED
+Aleix Febas,MED
+Miguel Román,MED
+Hugo Álvarez,MED
+Hugo Burcio,MED
+Matías Vecino,MED
+Hugo González,MED
+Antañón,MED
+El-Abdellaoui,MED
+Williot Swedberg,MED
+Pablo Durán,DEL
+Ferran Jutglà,DEL
+Borja Iglesias,DEL
+Iago Aspas,DEL
+#Rayo Vallecano
+Dani Cárdenas,POR
+Augusto Batalla,POR
+Emil Audero,POR
+Iván Balliu,DEF
+Jozhua Vertrouwd,DEF
+Pelayo Fernández,DEF
+Marash Kumbulla,DEF
+Andrei Rațiu,DEF
+Florian Lejeune,DEF
+Luiz Felipe,DEF
+Sadick,DEF
+Adrià Pedrosa,DEF
+Fran Pérez,MED
+Óscar Valentín,MED
+Isi Palazón,MED
+Pathé Ciss,MED
+Pedro Díaz,MED
+Samu Becerra,MED
+Unai López,MED
+Álvaro García,MED
+Luka Tsitaishvili,MED
+Bouaré,MED
+Rayane Belaid,MED
+Alemão,DEL
+Jorge de Frutos,DEL
+Raúl de Tomás,DEL
+Randy Nteka,DEL
+Sergio Camello,DEL
+Etienne Eto'o,DEL
+#Osasuna
+Sergio Herrera,POR
+Aitor Fernández,POR
+Alejandro Catena,DEF
+Íñigo Arguibide,DEF
+Enzo Boyomo,DEF
+Valentin Rosier,DEF
+Abel Bretones,DEF
+Jorge Herrando,DEF
+Diego Rico,DEF
+Rockson Yeboah,DEF
+Unai Santos,DEF
+Del Castillo,MED
+Osambela,MED
+Jon Moncayola,MED
+Raúl Moro,MED
+Rubén García,MED
+Iker Muñoz,MED
+Kike Barja,MED
+Aimar Oroz,MED
+Lucas Torró,MED
+Moi Gómez,MED
+Raúl García de Haro,DEL
+Ante Budimir,DEL
+Victor Dubasin,DEL
+#Valencia
+Stole Dimitrievski,POR
+Van Oevelen,POR
+Cristian Rivero,POR
+José Luis Gayà,DEF
+Mouctar Diakhaby,DEF
+Jesús Vázquez,DEF
+César Tárrega,DEF
+José Copete,DEF
+De Haas,DEF
+Dimitri Foulquier,DEF
+Pablo Maffeo,DEF
+Arnau Martínez,DEF
+Iker Córdoba,DEF
+Diego López,MED
+Pepelu,MED
+Filip Ugrinic,MED
+Javi Guerra,MED
+Guido Rodríguez,MED
+Sergi Canós,MED
+Sato,MED
+Aliou Dieng,MED
+Luis Rioja,MED
+Mayol,MED
+Harvey Elliott,MED
+Arnaut Danjuma,DEL
+Raba,DEL
+Umar Sadiq,DEL
+Otorbi,DEL
+Hugo Duro,DEL
+Aimar Blázquez,DEL
+#Getafe
+David Soria,POR
+Jiří Letáček,POR
+Carvajal,DEF
+Johan Mojica,DEF
+Andrés García,DEF
+Sazonov,DEF
+Davinchi,DEF
+Abdel Abqar,DEF
+Sebastián Boselli,DEF
+Zaid Romero,DEF
+Djené Dakonam,DEF
+Kiko Femenía,DEF
+Ismael Bekhoucha,DEF
+Jean Ives Valou,DEF
+Óscar David López,DEF
+Jorge Montes,DEF
+Orel Mangala,MED
+Ramón Terrats,MED
+Francho Serrano,MED
+Mario Martín,MED
+Álex Sancris,MED
+Yvan Neyou,MED
+Javi Muñoz,MED
+Nemanja Gudelj,MED
+Martín Satriano,DEL
+Enes Ünal,DEL
+Borja Mayoral,DEL
+Christantus Uche,DEL
+Joselu Pérez,DEL
+Juanmi Jiménez,DEL
+#Elche
+Matías Dituro,POR
+Iturbe,POR
+Víctor Chust,DEF
+Buba Sangaré,DEF
+Pedro Bigas,DEF
+John Donald,DEF
+Lomonaco,DEF
+Roy Revivo,DEF
+Rubén Sánchez,DEF
+Yago Santiago,MED
+Marc Aguado,MED
+Facundo Buonanotte,MED
+Martim Neto,MED
+Federico Redondo,MED
+Germán Valera,MED
+Grady Diangana,MED
+Álex Sánchez,MED
+Lucas Cepeda,MED
+Gonzalo Villar,MED
+Josan,MED
+Javi Morcillo,MED
+Thomas Lemar,MED
+Tete Morente,MED
+Adam Boayar,DEL
+Ali Houary,DEL
+Fernando Niño,DEL
+Abiel Osorio,DEL
+Ezequiel Ponce,DEL
+#Málaga
+Alfonso Herrero,POR
+Carlos López,POR
+Calero,DEF
+Einar Galilea,DEF
+Diego Murillo,DEF
+Álex Pastor,DEF
+Ángel Recio,DEF
+Rafita Garrido,DEF
+José Salinas,DEF
+Carlos Puga,DEF
+Juan Berrocal,DEF
+Aznou,DEF
+Moussa Diarra,DEF
+Juan Cruz,MED
+Joaquín Muñoz,MED
+Dotor,MED
+Izan Merino,MED
+Ramón Enríquez,MED
+Dani Lorenzo,MED
+Rafa Rodríguez,MED
+Aarón Ochoa,MED
+David Larrubia,MED
+Haitam Abaida,MED
+Pablo Martínez,MED
+Cajuste,MED
+Lobete,DEL
+Adrián Niño,DEL
+Chupe,DEL
+Eneko Jauregi,DEL
+#Racing de Santander
+Agirrezabala,POR
+Eriksson,POR
+Facu González,DEF
+Jorge Salinas,DEF
+Mantilla,DEF
+Manu Hernando,DEF
+Pedro Felipe,DEF
+Pablo Ramón,DEF
+Aarón Martín,DEF
+Belocian,DEF
+Canales,MED
+Íñigo Vicente,MED
+Íñigo Sainz-Maza,MED
+Maguette Gueye,MED
+Iván Martín,MED
+Facundo Prati,MED
+André Almeida,MED
+Pablo García,MED
+Asier Villalibre,DEL
+Andrés Martín,DEL
+Guliashvili,DEL
+Juan Carlos Arana,DEL
+Zabiri,DEL
+Iker Luque,DEL

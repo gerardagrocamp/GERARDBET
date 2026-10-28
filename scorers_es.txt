@@ -1,0 +1,20 @@
+Raphinha|Barcelona|13
+Kylian Mbappé|Real Madrid|11
+Zabiri|Racing de Santander|8
+Lamine Yamal|Barcelona|8
+Sergio Camello|Rayo Vallecano|7
+Budimir|Osasuna|7
+Roberto Fernández|Espanyol|6
+Fernando Niño|Elche|6
+Álex Baena|Atlético de Madrid|5
+Aubameyang|Deportivo|5
+Brugui|Levante|5
+Boyé|Alavés|5
+Fermín López|Barcelona|4
+Adrián Niño|Málaga|4
+Mariano Díaz|Alavés|3
+Bellingham|Real Madrid|3
+Álvaro García|Rayo Vallecano|3
+Jonathan David|Atlético de Madrid|3
+Iván Romero|Levante|3
+Sučić|Real Sociedad|3
