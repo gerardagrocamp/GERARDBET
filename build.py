@@ -142,9 +142,19 @@ HEAD = """<!doctype html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <style>:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style>
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#13211d">
+<link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="GerardBet">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+"""
+SW = """<script>if("serviceWorker" in navigator){window.addEventListener("load",()=>navigator.serviceWorker.register("sw.js").catch(()=>{}))}</script>
 """
 # la plantilla empieza con <title>, <meta> y <style>; van al <head>, el resto al <body>
 i = html.index("<header")
-page = HEAD + html[:i] + "</head>\n<body>\n" + html[i:] + "\n</body>\n</html>\n"
+page = HEAD + html[:i] + "</head>\n<body>\n" + html[i:] + "\n" + SW + "</body>\n</html>\n"
 open(os.path.join(ROOT,"index.html"),"w",encoding="utf8").write(page)
 print("ok", len(data), "bytes of data")

@@ -35,10 +35,22 @@ Es una sola página (`index.html`) que funciona en cualquier navegador, sin serv
 3. En *Source* elige **Deploy from a branch**, la rama `main` y la carpeta `/ (root)`.
 4. Guarda. En uno o dos minutos la web estará en `https://TU-USUARIO.github.io/NOMBRE-DEL-REPOSITORIO/`.
 
+## Instalarla como aplicación en el móvil
+
+Una vez publicada con GitHub Pages:
+
+- **Android (Chrome):** abre la dirección de la web, pulsa ⋮ y elige **Instalar aplicación** (o **Añadir a pantalla de inicio**).
+- **iPhone (Safari):** abre la dirección, pulsa el botón de compartir y elige **Añadir a pantalla de inicio**.
+
+Se abre a pantalla completa, con su propio icono, y también funciona sin conexión con los últimos datos descargados.
+
 ## Estructura
 
 ```
 index.html              La web lista para usar (generada)
+manifest.webmanifest    Nombre, icono y colores de la aplicación
+sw.js                   Permite instalarla y usarla sin conexión
+icons/                  Iconos de la aplicación
 scripts/
   template.html         Diseño y código de la página
   build.py              Une la plantilla con los datos y genera index.html
