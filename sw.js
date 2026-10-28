@@ -1,7 +1,7 @@
 // GerardBet: permite instalar la web como aplicación y abrirla sin conexión.
 // Siempre intenta descargar la versión más nueva; si no hay conexión, usa la guardada.
-const CACHE = "gerardbet-v1";
-const FILES = ["./", "./index.html", "./manifest.webmanifest", "./icons/icon-192.png", "./icons/icon-512.png"];
+const CACHE = "gerardbet-v2";
+const FILES = ["./", "./index.html", "./manifest.webmanifest", "./icon-192.png", "./icon-512.png"];
 
 self.addEventListener("install", e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(FILES)).then(() => self.skipWaiting()));
